@@ -36,6 +36,7 @@ Task App es una aplicación web para gestionar tareas, construida con el framewo
     ```
 
 4. Copia el archivo de entorno y configura las variables necesarias:
+   Se usa mysql como driver de db por lo que hay que crear el achivo .env con los datos de .env.example.
 
     ```sh
     cp .env.example .env
