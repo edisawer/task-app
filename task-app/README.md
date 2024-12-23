@@ -19,7 +19,7 @@ Task App es una aplicación web para gestionar tareas, construida con el framewo
 1. Clona el repositorio:
 
     ```sh
-    git clone https://github.com/edisawer/task-app/tree/main/task-app.git
+    git clone https://github.com/edisawer/task-app.git
     cd task-app
     ```
 
